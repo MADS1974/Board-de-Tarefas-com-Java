@@ -62,6 +62,20 @@ Dentro de um board selecionado, o menu deve permitir:
 
 ---
 
-## 
+## Contribuição
+
+Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias no projeto.
+
+---
+
+
+### Toda implementação deste código foi feita seguindo boas práticas de programação orientada a objetos e seguindo as orientações do Expert www.dio.me
+
+- [José Luiz Abreu Cardoso Junior](https://www.linkedin.com/in/jos%C3%A9-luiz-abreu-cardoso-junior-18483872/)
+
+### Follow me
+
+- [MARCIO ADRIANO DA SILVA | LinkedIn](https://www.linkedin.com/in/mads1974/)
+
 
 
